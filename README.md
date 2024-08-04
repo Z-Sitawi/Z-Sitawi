@@ -1,9 +1,7 @@
-# Aaichaou Zakaria
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&color=33B5F7&width=435&lines=%F0%9F%92%BB+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Coffee+Lover+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a><br>
-
-
+<h1 align="center">Hi 👋, I'm Zakaria Aaichaou <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&color=33B5F7&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Coffee+Lover+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a></h1>
+<p>Crazy about coding.</p>
 ---
-### My Stack
+<h1>My Stack</h1>
 
 <p align="center">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
