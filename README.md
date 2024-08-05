@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zakaria Aaichaou <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&pause=1000&color=33B5F7&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Coffee+Lover+%E2%98%95%EF%B8%8F" alt="Typing SVG" /></a></h1>
-<p>Crazy about coding.</p>
----
+
+<p>A very enthusiastic young man who aspires to add value to society. I
+estimate time, dedication, and hard work. I also believe in persistence
+and patience as two important elements to achieve any goal in life.</p>
+
 <h1>My Stack</h1>
 
 <p align="center">
