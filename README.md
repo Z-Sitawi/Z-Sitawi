@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z-sitawi" alt="z-sitawi" /></a> </p>
 
 - 📫 How to reach me **aaichaou.zakaria@gmail.com**
+- 👨🏻‍💻 Portfolio: **<a href="https://www.zaktech.top">ZakTech</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +19,6 @@
 
 <p align="center">
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z-sitawi&show_icons=true&locale=en&layout=compact" alt="z-sitawi" />
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=z-sitawi&show_icons=true&locale=en" alt="z-sitawi" /><br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z-sitawi&" alt="z-sitawi" /><br><br>
   <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z-sitawi"/>
   <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z-sitawi&theme=github"/>
