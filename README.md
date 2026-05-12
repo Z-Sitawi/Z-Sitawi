@@ -10,7 +10,10 @@
 
 
 <p align="center">
-  <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z-sitawi"/>
-  <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z-sitawi&theme=github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z-Sitawi&theme=algolia"/>
+  <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Z-Sitawi&theme=algolia"/>
+  <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Z-Sitawi&theme=algolia"/>
+  <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Z-Sitawi&theme=algolia"/>
+  <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Z-Sitawi&theme=algolia&utcOffset=8"/>
 </p>
 <p>&nbsp;</p>
